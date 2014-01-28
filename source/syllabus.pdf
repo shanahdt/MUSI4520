@@ -1,0 +1,2174 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 10 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Times-Bold
+<< /BaseFont /Times-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:dts9h@virginia.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 637.1236
+ 526.5827
+ 649.1236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+5 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R ]
+ /Contents 30 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 29 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 31 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 29 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:dts9h@virginia.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 239.4264
+ 699.9236
+ 334.1424
+ 711.9236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Annots [ 7 0 R ]
+ /Contents 32 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 29 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 33 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 29 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F3': class PDFType1Font 
+10 0 obj
+% Font Times-Italic
+<< /BaseFont /Times-Italic
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page5': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 34 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 29 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Contents 35 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 29 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R13': class PDFCatalog 
+13 0 obj
+% Document Root
+<< /Outlines 15 0 R
+ /PageLabels 36 0 R
+ /PageMode /UseNone
+ /Pages 29 0 R
+ /Type /Catalog >>
+endobj
+% 'R14': class PDFInfo 
+14 0 obj
+<< /Author ()
+ /CreationDate (D:20140112231252+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Syllabus) >>
+endobj
+% 'R15': class PDFOutlines 
+15 0 obj
+<< /Count 15
+ /First 16 0 R
+ /Last 28 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+16 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 491.6236
+ 0 ]
+ /Next 17 0 R
+ /Parent 15 0 R
+ /Title (Course Objectives) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+17 0 obj
+<< /Count 1
+ /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 304.4236
+ 0 ]
+ /First 18 0 R
+ /Last 18 0 R
+ /Next 19 0 R
+ /Parent 15 0 R
+ /Prev 16 0 R
+ /Title (Resources) >>
+endobj
+% 'Outline.14.0': class OutlineEntryObject 
+18 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 237.2236
+ 0 ]
+ /Parent 17 0 R
+ /Title (Website) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+19 0 obj
+<< /Count 5
+ /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 161.6236
+ 0 ]
+ /First 20 0 R
+ /Last 24 0 R
+ /Next 25 0 R
+ /Parent 15 0 R
+ /Prev 17 0 R
+ /Title (Policies and Grading) >>
+endobj
+% 'Outline.15.0': class OutlineEntryObject 
+20 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 621.0236
+ 0 ]
+ /Next 21 0 R
+ /Parent 19 0 R
+ /Title (Classwork, Homework, and Grading) >>
+endobj
+% 'Outline.15.1': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 533.4236
+ 0 ]
+ /Next 22 0 R
+ /Parent 19 0 R
+ /Prev 20 0 R
+ /Title (Presentations) >>
+endobj
+% 'Outline.15.2': class OutlineEntryObject 
+22 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 295.8236
+ 0 ]
+ /Next 23 0 R
+ /Parent 19 0 R
+ /Prev 21 0 R
+ /Title (Late Assignments) >>
+endobj
+% 'Outline.15.3': class OutlineEntryObject 
+23 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 196.2236
+ 0 ]
+ /Next 24 0 R
+ /Parent 19 0 R
+ /Prev 22 0 R
+ /Title (Attendance and Tardiness) >>
+endobj
+% 'Outline.15.4': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Parent 19 0 R
+ /Prev 23 0 R
+ /Title (Assistance) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 665.4236
+ 0 ]
+ /Next 26 0 R
+ /Parent 15 0 R
+ /Prev 19 0 R
+ /Title (Lecture and Reading Schedule) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 414.0236
+ 0 ]
+ /Next 27 0 R
+ /Parent 15 0 R
+ /Prev 25 0 R
+ /Title (Final Paper) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+27 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 262.8236
+ 0 ]
+ /Next 28 0 R
+ /Parent 15 0 R
+ /Prev 26 0 R
+ /Title (Honor) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+28 0 obj
+<< /Dest [ 12 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Parent 15 0 R
+ /Prev 27 0 R
+ /Title (Students with disabilities) >>
+endobj
+% 'R29': class PDFPages 
+29 0 obj
+% page tree
+<< /Count 6
+ /Kids [ 5 0 R
+ 6 0 R
+ 8 0 R
+ 9 0 R
+ 11 0 R
+ 12 0 R ]
+ /Type /Pages >>
+endobj
+% 'R30': class PDFStream 
+30 0 obj
+% page stream
+<< /Length 7567 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 736.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F2 24 Tf 28.8 TL 191.5889 0 Td (Syllabus) Tj T* -191.5889 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.6 Tm /F2 18 Tf 21.6 TL 17.69388 0 Td (The Piano Prelude from Chopin to Debussy \(MUSI4520\)) Tj T* -17.69388 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 16.38737 0 Td (Instructor:) Tj T* -16.38737 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 0 rg (Dr. Daniel Shanahan) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 650.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 37.72337 0 Td (Office:) Tj T* -37.72337 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL .201672 Tw (Room 129 \(basement\), Kerchof Hall \(Math Building; on C parking lot across) Tj T* 0 Tw (from Clark Hall.\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 635.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 34.37537 0 Td (E-mail:) Tj T* -34.37537 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (dts9h@virginia.edu) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 620.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 5.38337 0 Td (Office hours:) Tj T* -5.38337 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Tues: 11:30-1:30, Weds:2:30-4:30, and By Appointment) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 605.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 32.38337 0 Td (Course:) Tj T* -32.38337 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (MUSI4520) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 590.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 35.71937 0 Td (Credit:) Tj T* -35.71937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (3.0 credits) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 575.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 40.38737 0 Td (Term:) Tj T* -40.38737 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Spring 2014) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 560.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 42.37937 0 Td (Time:) Tj T* -42.37937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (MWF / 1-1:50pm) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 545.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 41.71937 0 Td (Place:) Tj T* -41.71937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Old Cabell Hall, 113) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 530.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 24.04337 0 Td (Class No:) Tj T* -24.04337 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (20225) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 503.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 45.71537 0 Td (Text:) Tj T* -45.71537 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 2.155039 Tw (None. Collab will be updated with readings consisting of journal articles,) Tj T* 0 Tw (book chapters, and scores.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 466.4236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Course Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 388.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 60 Tm /F1 12 Tf 12 TL 2.730784 Tw (This course looks at the piano prelude in the late 19th- and early 20th-century from many) Tj T* 0 Tw 1.873615 Tw (different angles. We will study the various compositional techniques employed by composers) Tj T* 0 Tw 1.544126 Tw (such as Chopin, Liszt, Rachmaninoff, Scriabin, and Debussy, and we will use selected sets of) Tj T* 0 Tw 2.329776 Tw (preludes as a way of examining aspects of chromaticism, \223impressionism\224, music-theoretical) Tj T* 0 Tw .385366 Tw (discourse, and performance practice. This course will explore the repertoire in depth and provide) Tj T* 0 Tw (the students with the tools for engaging with music that frequently eludes discussion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 370.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (In this course you will:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 364.4236 cm
+Q
+q
+1 0 0 1 62.69291 364.4236 cm
+Q
+q
+1 0 0 1 62.69291 352.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Learn about the various approaches to discussing the standalone piano prelude) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 346.4236 cm
+Q
+q
+1 0 0 1 62.69291 334.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Understand the historical and cultural contexts within which these pieces were composed) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 328.4236 cm
+Q
+q
+1 0 0 1 62.69291 316.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Engage in the analytical discourse of the 20th century surrounding the genre) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 316.4236 cm
+Q
+q
+1 0 0 1 62.69291 279.2236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Resources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 249.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL .31161 Tw (There is no text for this class. Articles, scores, and scanned book chapters will be made available) Tj T* 0 Tw (on Collab.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 215.6236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Website) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 173.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL .507213 Tw (I will be sticking with Collab for supplemental readings, quizzes, and assignments this semester.) Tj T* 0 Tw 1.14111 Tw (This Syllabus is on Collab, and I will be adding content \(recordings, links, articles, etc.\) to the) Tj T* 0 Tw (Collab site on a daily basis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 136.4236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Policies and Grading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 94.42362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL .255654 Tw (It is very easy for this topic to become overwhelming if one is not accustomed to working with it) Tj T* 0 Tw 2.763163 Tw (on a regular basis. In order to avoid falling behind, you are expected to come to all class) Tj T* 0 Tw (meetings, and return all written assignments promptly.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R31': class PDFStream 
+31 0 obj
+% page stream
+<< /Length 6474 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F2 12 Tf 12 TL 3.918576 Tw (There will be frequent assignments \(including question sheets, analyses, and reading) Tj T* 0 Tw (responses\), and one final project this semester.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Assigments and tests will receive numerical grades \(100 = perfect\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (The breakdown of grades for this class is as follows:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Assignments \(40%\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Attendance/Participation \(30%\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Final Project \(20%\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (In-Class Presentation \(10%\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 62.69291 599.4236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Classwork, Homework, and Grading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 545.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL 3.304697 Tw (Assignments are due at the beginning of class. Late assignments will be docked 5 points) Tj T* 0 Tw .687584 Tw (according to the number of days \(24-hour timespans\) from the official due date. For example, if) Tj T* 0 Tw .273654 Tw (you hand in an assignment that would normally receive an 88 within 24 hours of the class, it will) Tj T* 0 Tw (be reduced to an 83.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 511.8236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Presentations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 457.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL .528339 Tw (Each of you will be paired with another classmate to present your homework once on one of the) Tj T* 0 Tw .462784 Tw (Mondays during the semester, starting on January 27th. In addition to the copy of the homework) Tj T* 0 Tw 1.387654 Tw (that you hand in to me, you are responsible for making a copy for every other member of the) Tj T* 0 Tw (class, so make sure to leave enough time to make copies for your presentation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 367.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 72 Tm /F1 12 Tf 12 TL .250221 Tw (Begin your presentation by asking the class a series of questions that will get them to think about) Tj T* 0 Tw .422983 Tw (the assignment and explain how they approached it. You will then distribute your own solutions,) Tj T* 0 Tw 2.756983 Tw (explain them, and solicit responses. You should plan for your presentation to take only 10) Tj T* 0 Tw 2.195584 Tw (minutes, but follow-up questions are likely to go on for a bit longer. Your oral presentation) Tj T* 0 Tw .422784 Tw (counts as one homework grade, separate from the grade you receive on the homework itself. Try) Tj T* 0 Tw .60261 Tw (to present as well as possible: be prepared, be strategic about the way you use your audio-visual) Tj T* 0 Tw (aids \(slideshows, if preferred\), speak loudly and clearly, and use the appropriate terminology.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 325.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL .89361 Tw (I am happy to meet with you beforehand to go over your presentation. Before meeting with me) Tj T* 0 Tw .950126 Tw (and certainly before presenting in class, you should also convene with your partner, discuss the) Tj T* 0 Tw (assignment together, and plan out the presentation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 307.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (You can see a rubric of how presentations on Collab.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 274.2236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Late Assignments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 208.2236 cm
+q
+BT 1 0 0 1 0 48 Tm 3.874697 Tw 12 TL /F1 12 Tf 0 0 0 rg (Assignments must be submitted at the beginning on class, either on Collab or by paper) Tj T* 0 Tw 3.25152 Tw (\(depending on the assignment\). Late assignments will be deducted 5 points per class. For) Tj T* 0 Tw .054987 Tw (example, an assignment due on Monday that earns a 94 will be awarded an 89 if handed in before) Tj T* 0 Tw 4.68748 Tw (Wednesday, an 84 if handed in before Friday, etc. ) Tj /F2 12 Tf (ASSIGNMENTS WILL NOT BE) Tj T* 0 Tw (ACCEPTED AT ALL AFTER TWO WEEKS) Tj /F1 12 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 174.6236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Attendance and Tardiness) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 132.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL 2.376384 Tw (Attendance is required, and is an extremely large part of your grade. Sign-in sheets will be) Tj T* 0 Tw .467633 Tw (handed out at the beginning of each class, and will be collected within the first 10-15 minutes of) Tj T* 0 Tw (class. If you are unable to sign in, it will be treated the same as an absence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 78.62362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL 1.016104 Tw (You may miss at most two classes with no deduction, unless you have a written excuse from a) Tj T* 0 Tw 3.19548 Tw (health care provider or another authorized excuse as arranged with the teacher. Consistent) Tj T* 0 Tw 2.731584 Tw (unexcused absences \(more than 2\) will lead to a 5 point deduction in your attendance and) Tj T* 0 Tw (participation grade.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R32': class PDFStream 
+32 0 obj
+% page stream
+<< /Length 7696 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 743.4236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Assistance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.4236 cm
+q
+BT 1 0 0 1 0 48 Tm 2.375584 Tw 12 TL /F1 12 Tf 0 0 0 rg (I am available and interested in talking with you about the course, the course material, and) Tj T* 0 Tw .955584 Tw (strategies to enhance your learning. We can usually have brief discussions after class, and I am) Tj T* 0 Tw .571584 Tw (able to answer questions by e-mail \() Tj 0 0 .501961 rg (dts9h@virginia.edu) Tj 0 0 0 rg (\) at any time. Please feel free to visit me) Tj T* 0 Tw .49761 Tw (during office hours \(see above\) at any point during the semester. Additionally, I am happy to set) Tj T* 0 Tw (up an appointment at a time that is mutually acceptable for more lengthy discussions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 640.2236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Lecture and Reading Schedule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 628.2236 cm
+Q
+q
+1 0 0 1 62.69291 82.22362 cm
+1 1 1 rg
+n 0 546 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 528 469.8898 -30 re f*
+1 1 1 rg
+n 0 498 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 468 469.8898 -30 re f*
+1 1 1 rg
+n 0 438 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 408 469.8898 -30 re f*
+1 1 1 rg
+n 0 378 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 348 469.8898 -42 re f*
+1 1 1 rg
+n 0 306 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 276 469.8898 -30 re f*
+1 1 1 rg
+n 0 246 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 216 469.8898 -42 re f*
+1 1 1 rg
+n 0 174 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 144 469.8898 -42 re f*
+1 1 1 rg
+n 0 102 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 72 469.8898 -30 re f*
+1 1 1 rg
+n 0 42 469.8898 -42 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Class) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Topic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Assignment Due) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 501 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (1.M) Tj T* (\(1/13\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Introduction: Why study the piano miniature?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (No assignment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 471 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (1.W) Tj T* (\(1/15\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 471 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Beethoven Op. 39: Historical context, analysis,) Tj T* (influence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (1.F) Tj T* (\(1/17\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Hummel, Op.67 Historical context, analysis,) Tj T* (influence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 411 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (2.M) Tj T* (\(1/20\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (No class, Martin Luther King Jr. Day) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (No assignment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (2.W) Tj T* (\(1/22\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Melodic and Harmonic reduction; Chopin's) Tj T* (Op.28, No.20.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 351 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (2.F) Tj T* (\(1/24\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Metric reduction Op.28, No.7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 321 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (3.M) Tj T* (\(1/27\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Op.28, No.1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 309 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL (Question Sheet about Wallace) Tj T* (Berry's "Metric and Rhythmic) Tj T* (Articulation in Music") Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 279 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (3.W) Tj T* (\(1/29\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Expectation/Implication in Music) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 249 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (3.F) Tj T* (\(1/31\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 261 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Analysis of Implication in Op.28, No.22) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (4.M) Tj T* (\(2/3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 231 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Op.28, No.21) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Question Sheet about Op.28,) Tj T* (No.21.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (4.W) Tj T* (\(2/5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Ambiguity: Op. 28, No.22) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL (Question Sheet about Alison) Tj T* (Hood's "Ambiguity of Tonal) Tj T* (Meaning in Chopin") Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (4.F) Tj T* (\(2/7\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Ambiguity Continued) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (5.M) Tj T* (\(2/10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Deconstructing Op.28, No.7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL (Question sheet for Subotnik's) Tj T* ("How could Chopin's A-Major) Tj T* (Prelude be Deconstructed?") Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (5.W) Tj T* (\(2/12\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Op.28, No.7 Continued) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (5.F) Tj T* (\(2/14\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Fourth Ballade \(op.52\) Discussion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (6.M) Tj T* (\(2/17\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Fourth Ballade continued) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL (Questions about Klein's "Chopin's) Tj T* (Fourth Ballade as Musical) Tj T* (Narrative") Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 528 m 469.8898 528 l S
+n 0 498 m 469.8898 498 l S
+n 0 468 m 469.8898 468 l S
+n 0 438 m 469.8898 438 l S
+n 0 408 m 469.8898 408 l S
+n 0 378 m 469.8898 378 l S
+n 0 348 m 469.8898 348 l S
+n 0 306 m 469.8898 306 l S
+n 0 276 m 469.8898 276 l S
+n 0 246 m 469.8898 246 l S
+n 0 216 m 469.8898 216 l S
+n 0 174 m 469.8898 174 l S
+n 0 144 m 469.8898 144 l S
+n 0 102 m 469.8898 102 l S
+n 0 72 m 469.8898 72 l S
+n 0 42 m 469.8898 42 l S
+n 53.92178 0 m 53.92178 546 l S
+n 292.7182 0 m 292.7182 546 l S
+n 0 546 m 469.8898 546 l S
+n 0 0 m 0 546 l S
+n 469.8898 0 m 469.8898 546 l S
+Q
+Q
+ 
+endstream
+endobj
+% 'R33': class PDFStream 
+33 0 obj
+% page stream
+<< /Length 7550 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 105.0236 cm
+1 1 1 rg
+n 0 660 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 630 469.8898 -30 re f*
+1 1 1 rg
+n 0 600 469.8898 -42 re f*
+.878431 .878431 .878431 rg
+n 0 558 469.8898 -30 re f*
+1 1 1 rg
+n 0 528 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 498 469.8898 -30 re f*
+1 1 1 rg
+n 0 468 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 438 469.8898 -30 re f*
+1 1 1 rg
+n 0 408 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 378 469.8898 -30 re f*
+1 1 1 rg
+n 0 348 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 318 469.8898 -42 re f*
+1 1 1 rg
+n 0 276 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 246 469.8898 -30 re f*
+1 1 1 rg
+n 0 216 469.8898 -42 re f*
+.878431 .878431 .878431 rg
+n 0 174 469.8898 -30 re f*
+1 1 1 rg
+n 0 144 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 114 469.8898 -54 re f*
+1 1 1 rg
+n 0 60 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (6.W) Tj T* (\(2/19\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Op.28, No.17 and Narrative) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (6.F) Tj T* (\(2/21\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Performance Analysis and Chopin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Read Cook's "Performance) Tj T* (Analysis and Chopin's Mazurkas") Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (7.M) Tj T* (\(2/24\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Blumenfeld, Op.17, No.15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 561 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL (Written comparison between) Tj T* (Blumenfeld Op.17, No.15 and) Tj T* (Chopin's Op.28, No.3.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 531 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (7.W) Tj T* (\(2/26\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Busoni's Op.37) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 501 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (7.F) Tj T* (\(2/28\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Busoni's Op.37 \(continued\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 471 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (8.M) Tj T* (\(3/3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Rachmaninoff, op.23) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 471 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Comparison of Cui's Op.64, No.7) Tj T* (and Rachmaninoff's Op.23, No.5.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (8.W) Tj T* (\(3/5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Cui, Op.64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 411 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (8.F) Tj T* (\(3/7\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Scriabin, Op.11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 381 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (9.M) Tj T* (\(3/10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Spring Break \(woot\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 351 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (9.W) Tj T* (\(3/12\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Spring Break) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 321 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (9.F) Tj T* (\(3/14\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Spring Break) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (10.M) Tj T* (\(3/17\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL ("La filles aux cheveaux de lin" Analysis) Tj T* (\(Reduction\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 279 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL (Assignment due: Comparison of) Tj T* ("La filles aux cheveaux de lin") Tj T* (and "Bruyeres") Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 249 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (10.W) Tj T* (\(3/19\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 261 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL ("Bruyeres" Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (10.F) Tj T* (\(3/21\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 231 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL ("Bruyeres" continued/"Canope") Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (11.M) Tj T* (\(3/24\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL ("Canope" Continued \(Tonal Ambiguity\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL (Comparison of "La cathedrale) Tj T* (engloutie" and "Des pas sur la) Tj T* (neige") Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (11.W) Tj T* (\(3/26\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL ("La cathedrale engloutie" \(Ambiguity,) Tj T* (modality\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (11.F) Tj T* (\(3/28\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL ("La cathedrale engloutie"/ "Des pas sur la) Tj T* (neige") Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (12.M) Tj T* (\(3/31\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL ("Des pas sur la neige" \(Non-functional) Tj T* (harmony, narrative\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL (Question sheet on Rings's) Tj T* ("Mysteres limpides: Time and) Tj T* (Transformation in Debussy's 'Des) Tj T* (pas sur la neige'") Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (12.W) Tj T* (\(4/2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL ("Les collines Anacapri" \(Narrative, continued\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (12.F) Tj T* (\(4/4\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL ("Les collines Anacapri" \(continued\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 660 m 469.8898 660 l S
+n 0 0 m 469.8898 0 l S
+n 0 630 m 469.8898 630 l S
+n 0 600 m 469.8898 600 l S
+n 0 558 m 469.8898 558 l S
+n 0 528 m 469.8898 528 l S
+n 0 498 m 469.8898 498 l S
+n 0 468 m 469.8898 468 l S
+n 0 438 m 469.8898 438 l S
+n 0 408 m 469.8898 408 l S
+n 0 378 m 469.8898 378 l S
+n 0 348 m 469.8898 348 l S
+n 0 318 m 469.8898 318 l S
+n 0 276 m 469.8898 276 l S
+n 0 246 m 469.8898 246 l S
+n 0 216 m 469.8898 216 l S
+n 0 174 m 469.8898 174 l S
+n 0 144 m 469.8898 144 l S
+n 0 114 m 469.8898 114 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 53.92178 0 m 53.92178 660 l S
+n 292.7182 0 m 292.7182 660 l S
+n 0 0 m 0 660 l S
+n 469.8898 0 m 469.8898 660 l S
+Q
+Q
+ 
+endstream
+endobj
+% 'R34': class PDFStream 
+34 0 obj
+% page stream
+<< /Length 6771 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 444.0236 cm
+1 1 1 rg
+n 0 321 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 291 469.8898 -30 re f*
+1 1 1 rg
+n 0 261 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 231 469.8898 -6 re f*
+1 1 1 rg
+n 0 225 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 195 469.8898 -30 re f*
+1 1 1 rg
+n 0 165 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 135 469.8898 -42 re f*
+1 1 1 rg
+n 0 93 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 63 469.8898 -33 re f*
+1 1 1 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 294 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (13.M) Tj T* (\(4/7\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 306 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Approaches to musical rhythm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 294 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Question sheet for Trezise's) Tj T* ("Debussy's 'rhythmicized time'") Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 264 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (13.W) Tj T* (\(4/9\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Rhythmic projection in "Feuilles mortes") Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 234 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (13.F) Tj T* (\(4/11\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 234 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Metric grouping in "Danseuses de Delphes") Tj T* (and "Minstrels") Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (14.M) Tj T* (\(4/14\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 210 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Conformational Forms in the Preludes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 198 cm
+q
+BT 1 0 0 1 0 12 Tm 12 TL /F1 12 Tf 0 0 0 rg (Questions related to selections) Tj T* (from Bonds's ) Tj /F3 12 Tf (Wordless Rhetoric) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (14.W) Tj T* (\(4/16\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Generative forms and 'Les sons et les parfums) Tj T* (tournent dans l'air du soir') Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (14.F) Tj T* (\(4/18\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (Discontinous and 'Moment' Forms, and) Tj T* ('Brouillards') Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (15.M) Tj T* (\(4/21\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Post-tonal approaches; 'Voiles' Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.7182 96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL (Questions related to both) Tj T* (Nadeau's and Schnebel's Analyses) Tj T* (of 'Brouillards') Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (15.W) Tj T* (\(4/23\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL ('Voiles'/'Ce qu'a vu le vent O'uest' Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (15.F) Tj T* (\(4/25\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL ("Ce qu\222a vu le vent d\222Ouest") Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Analysis) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL (16.M) Tj T* (\(4/28\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.92178 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Final class and party \(woot\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 321 m 469.8898 321 l S
+n 0 291 m 469.8898 291 l S
+n 0 261 m 469.8898 261 l S
+n 0 231 m 469.8898 231 l S
+n 0 225 m 469.8898 225 l S
+n 0 195 m 469.8898 195 l S
+n 0 165 m 469.8898 165 l S
+n 0 135 m 469.8898 135 l S
+n 0 93 m 469.8898 93 l S
+n 0 63 m 469.8898 63 l S
+n 0 30 m 469.8898 30 l S
+n 53.92178 0 m 53.92178 321 l S
+n 292.7182 0 m 292.7182 321 l S
+n 0 0 m 0 321 l S
+n 469.8898 0 m 469.8898 321 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Final Project is Due Wednesday April 30th by 5pm.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 388.8236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Final Paper) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 274.8236 cm
+q
+BT 1 0 0 1 0 96 Tm .404987 Tw 12 TL /F1 12 Tf 0 0 0 rg (Your final, 10- to 12-page paper will be due at 5pm on Wednesday, April, 30th. I will meet with) Tj T* 0 Tw 2.234126 Tw (each of you individually during the week of Monday, March 31st, to discuss possible paper) Tj T* 0 Tw .250221 Tw (topics. Sign-up will be on Collab the previous week. Please come to our session with at least two) Tj T* 0 Tw 2.471555 Tw (possibilities in mind. You are also required to submit a 1-page, single-spaced outline and a) Tj T* 0 Tw 1.352384 Tw (1-page, single-spaced bibliography by the beginning of class on April 14th. I expect to find at) Tj T* 0 Tw 3.256697 Tw (least ) Tj /F2 12 Tf (6 ) Tj /F1 12 Tf (distinct and substantial sources in your bibliography. \(A wikipedia article is not a) Tj T* 0 Tw 1.70436 Tw (substantial source, nor is a blog.\) Be succinct in your outline and judicious in your choice of) Tj T* 0 Tw .356126 Tw (sources for your bibliography. Since research methods and materials are specific to the topic you) Tj T* 0 Tw (choose, we will strategize about them during our individual meetings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 237.6236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Honor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 147.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 72 Tm /F1 12 Tf 12 TL .16232 Tw (I trust every student in this course to comply with all of the provisions of the UVA honor system.) Tj T* 0 Tw .349751 Tw (I will ask that you pledge and sign the quizzes, the exam, and all assignments. Your signature on) Tj T* 0 Tw .02061 Tw (the exams affirms you have not received nor given aid while taking your exams, nor accessed any) Tj T* 0 Tw .62136 Tw (notes, study outlines, old exams, answer keys, or books while taking an exam and that you have) Tj T* 0 Tw .439269 Tw (not obtained any answers from another student's exam. Your signature on the papers affirms that) Tj T* 0 Tw 1.309269 Tw (they represent your original work, and that any sources you have quoted, paraphrased, or used) Tj T* 0 Tw (extensively in preparing the paper have been properly credited in the footnotes or bibliography.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R35': class PDFStream 
+35 0 obj
+% page stream
+<< /Length 599 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 739.8236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Students with disabilities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 697.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL .328697 Tw (This syllabus is available in alternative formats \(PDF, HTML, epub\) upon request. In addition, if) Tj T* 0 Tw 1.773984 Tw (you may need an accommodation based on the impact of a disability, you should contact me) Tj T* 0 Tw (immediately. Students with special needs can contact UVa's Office of Disability Services.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R36': class PDFPageLabels 
+36 0 obj
+% Document Root
+<< /Nums [ 0
+ 37 0 R
+ 1
+ 38 0 R
+ 2
+ 39 0 R
+ 3
+ 40 0 R
+ 4
+ 41 0 R
+ 5
+ 42 0 R ] >>
+endobj
+% 'R37': class PDFPageLabel 
+37 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R38': class PDFPageLabel 
+38 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R39': class PDFPageLabel 
+39 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R40': class PDFPageLabel 
+40 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R41': class PDFPageLabel 
+41 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R42': class PDFPageLabel 
+42 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+xref
+0 43
+0000000000 65535 f
+0000000113 00000 n
+0000000234 00000 n
+0000000403 00000 n
+0000000582 00000 n
+0000000811 00000 n
+0000001110 00000 n
+0000001403 00000 n
+0000001632 00000 n
+0000001931 00000 n
+0000002212 00000 n
+0000002382 00000 n
+0000002662 00000 n
+0000002943 00000 n
+0000003102 00000 n
+0000003358 00000 n
+0000003484 00000 n
+0000003661 00000 n
+0000003890 00000 n
+0000004042 00000 n
+0000004282 00000 n
+0000004477 00000 n
+0000004668 00000 n
+0000004862 00000 n
+0000005064 00000 n
+0000005234 00000 n
+0000005437 00000 n
+0000005624 00000 n
+0000005805 00000 n
+0000005976 00000 n
+0000006125 00000 n
+0000013791 00000 n
+0000020364 00000 n
+0000028159 00000 n
+0000035808 00000 n
+0000042678 00000 n
+0000043379 00000 n
+0000043537 00000 n
+0000043614 00000 n
+0000043691 00000 n
+0000043768 00000 n
+0000043845 00000 n
+0000043922 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(9\322\344\027\245;\027\311\002\001\243\367\241\260nI) (9\322\344\027\245;\027\311\002\001\243\367\241\260nI)] 
+
+ /Info 14 0 R
+ /Root 13 0 R
+ /Size 43 >>
+startxref
+43969
+%%EOF
