@@ -3,8 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Music Theory 1!
-====================================
+The Piano Prelude from Chopin to Debussy
+==============================================
+
+This site is really just to provide easy access to the syllabus.
+Collab is still the primary site of choice for class materials and 
+assignment submission.
 
 Contents:
 
@@ -12,7 +16,6 @@ Contents:
    :maxdepth: 1
 
    syllabus
-   lessons/index
 
 
 
